@@ -1,0 +1,15 @@
+body {
+	font-size: 14px;
+	background: grEY;
+	color:grey;
+    font-family: 'Libre Barcode 39 Text', cursive;
+}
+#home {
+	color: red;
+	background:orange;
+	font-size: 2em;
+}
+a {
+	color: aliceblue;
+	transition: color 500ms;
+}

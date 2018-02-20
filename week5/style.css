@@ -1,0 +1,12 @@
+p, input, button {
+  font-family: 'Indie Flower', cursive;
+  font-size: 15px;
+}
+input {
+  width: 500px;
+}
+body{
+	  background-color: grey;
+	  font-size: 10px;
+	
+}

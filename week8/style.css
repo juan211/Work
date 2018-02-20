@@ -1,0 +1,67 @@
+#game {
+	width: 800px;
+	margin:0 auto;
+	margin-right: auto
+	
+}
+
+.card {
+	width:100px;
+	height:100px;
+	display:inline-block;
+	background:#777;
+	margin:2px;
+	box-sizing: border-box;
+	padding: inherit;
+	align-content: right;
+
+	
+	
+}
+
+.card img {
+	width:100%;
+	height:100%;
+	image-resolution: from-image;
+}
+
+ input{
+	width:20%;
+	height:100%;
+    box-sizing: border-box;
+	 
+}
+
+
+body{
+  background-color:darkmagenta;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+div{
+  background-color:lightslategrey;
+  text-align: center;
+  font-size:25px;
+  
+}
+h1{
+	text-align: center;
+	color:red;
+		
+}
+h2 {
+	text-align: center;
+		color:blue;
+	
+}
+h3 {
+	text-align: center;
+		color: yellow;
+}
+
+p{
+	text-align: center;
+		color:pink;
+}
+

@@ -1,0 +1,8 @@
+p, input, button {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 15px;
+}
+input {
+  width: 500px;
+}
+
